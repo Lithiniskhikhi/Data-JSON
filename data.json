@@ -1,0 +1,42 @@
+{
+    "products":[
+    {
+        "ID": 1,
+        "image":  "https://i.postimg.cc/nrRK13fJ/Screenshot-2023-06-12-101528.png",
+        "title": "Igor",
+        "price": 189.99
+    },
+    {
+        "ID": 2,
+        "image": "https://i.postimg.cc/tgVLMCys/Screenshot-2023-06-12-104523.png",
+
+        "title": "In Rainbows",
+        "price": 189.99
+    },
+    {
+        "ID": 3,
+        "image": "https://i.postimg.cc/8CSz43gg/Screenshot-2023-06-12-104854.png",
+
+        "title": "Portamento",
+        "price": 189.99
+    },
+    {
+        "ID": 4,
+        "image": "https://i.postimg.cc/zfC9Nz23/Screenshot-2023-06-12-105057.png",
+        "title": "What the story",
+        "price": 189.99
+    },
+    {
+        "ID": 5,
+        "image": "https://i.postimg.cc/jd8f8ysS/Screenshot-2023-06-12-105112.png",
+        "title": "Blonde",
+        "price": 189.99
+    },
+    {
+        "ID": 6,
+        "image": "https://i.postimg.cc/sf85VjRj/Screenshot-2023-06-12-104628.png",
+        "title": "Mary Magdeline",
+        "price": 189.99
+    }
+]
+}
